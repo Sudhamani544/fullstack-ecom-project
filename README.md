@@ -1,4 +1,4 @@
 # fullstack-ecom-project
 
 
-ecommerce project with shoe as a product
+ecommerce project with shoes as a product
